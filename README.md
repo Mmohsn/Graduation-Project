@@ -28,6 +28,12 @@ Our dataset is collected from group of people using EMG muscle sensor V3 it cons
 two of them is placed on the interest muscles and the third one is placed on the non-active region. 
 - The five servos connected to breadboards respectively with hand fingers the positive pin is connected to 6-volt AC adapter and the negative is connected to GND of Arduino board, these servos is rested in forearm of 3D bionic hand. 
 - The 3D parts is obtained from InMoov is a humanoid robot, constructed out of 3D printable plastic body components, and controlled by Arduino microcontrollers 
-![alt text](https://github.com/Mmohsn/Graduation-Project/blob/main/8.%203D%20Prosthetic%20Arm.jpg)
+
+![Screenshot](8. 3D Prosthetic Arm.jpg)
+
+## Results
+| First Header  | Second Header | First Header |
+| ------------- | ------------- |              |
+
 
 
