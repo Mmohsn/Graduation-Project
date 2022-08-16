@@ -1,4 +1,4 @@
-# BFCAI - Graduaton Project - Medical Informatics Department.
+# BFCAI - Graduation Project - Medical Informatics Department.
 ## Project Name
 Identifying and Controlling Hand Gestures on 3D Prosthetic Hand Using EMG Signals
 ## Project Objective
