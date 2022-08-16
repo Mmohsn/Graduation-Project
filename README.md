@@ -26,6 +26,10 @@ Our dataset is collected from group of people using EMG muscle sensor V3 it cons
 
 ![alt text](https://github.com/Mmohsn/Graduation-Project/blob/main/3.%20System%20Architecture%20for%20controlling%20bionic%20arm.png)
 
+## Desktop App
+
+![alt text](https://github.com/Mmohsn/Graduation-Project/blob/main/EMG%20Signals%20Representation%20Desktop%20Application.png)
+
 ## Model Architecture
 ![alt text](https://github.com/Mmohsn/Graduation-Project/blob/main/7.%20Block%20diagram%20of%20the%20proposed%20convolutional%20neural%20network..png)
 
