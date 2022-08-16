@@ -32,8 +32,15 @@ two of them is placed on the interest muscles and the third one is placed on the
 ![Screenshot](8. 3D Prosthetic Arm.jpg)
 
 ## Results
-| First Header  | Second Header | First Header |
-| ------------- | ------------- |              |
+- The CNN model overcome SVM and Decision Tree with 98% Accuracy.
+- SVM achieved 73% Accuracy and Decision Tree achieved 92% Accuracy, these two models were trained with the features of the signal However CNN trained only on the raw data directly. 
+- The training process is done on GPU of Google Colab.
+
+![alt text](https://github.com/Mmohsn/Graduation-Project/blob/main/13.%20Models%20Results.png)
+
+
+![alt text](https://github.com/Mmohsn/Graduation-Project/blob/main/14.%20Confusion%20Matrix.PNG)
+
 
 
 
